@@ -30,7 +30,7 @@ The scripts are divided in to 3 parts: linear system fundamentals, optical image
 > 1. Phase Retrieval in Coherent Imaging
 > 1. Synthetic Aperture and Ptychography (in progress)
 
-[![YouTube Promo](https://img.youtube.com/vi/HHWVpXB5ZKk/0.jpg)](https://www.youtube.com/watch?v=HHWVpXB5ZKk)
+[YouTube Promo](https://www.youtube.com/watch?v=HHWVpXB5ZKk)
 
 ### Acknowledgment ###
 Our excellent undergraduate researcher at OISL, Tamara Nelson, is instrumental in implmenting the livescripts, making sure the consistency of the style and code of the whole project. Dr. Zheyuan Zhu contributed to Lecture 13. Graduate students Andrew Klein and Zachary Erickson helped with the first round of proof reading. 
